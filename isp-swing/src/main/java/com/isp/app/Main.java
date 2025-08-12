@@ -20,10 +20,10 @@
 
 package com.isp.app;
 
-import com.formdev.flatlaf.FlatLightLaf;
-import com.isp.app.view.*;
+import javax.swing.SwingUtilities;
 
-import javax.swing.*;
+import com.formdev.flatlaf.FlatLightLaf;
+import com.isp.app.view.AdminFrame;
 
 public class Main {
     public static void main(String[] args) {
